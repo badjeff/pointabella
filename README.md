@@ -5,12 +5,10 @@ A pointer device peripheral test bench.
 
 ### design principles
 - symmetrical
-- 3 buttons
-- no visible screws
-- ligthweight
-- small footpirnt
-- low profile
+- powered by seeed studio xiao mcu
 - zmk firmware
+- 3 buttons
+- small footpirnt, low profile, no visible screws
 
 
 ### gallery
