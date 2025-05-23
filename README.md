@@ -38,7 +38,7 @@ A pointer device peripheral test bench.
 |1*|lenovo t440 trackpoint (plus 2x m1.5 screws)|
 |1*|35mm cirque glidepoint circle trackpad tm035035|
 |1|seeed studio xiao ble (nrf52840)|
-|3|cherry mx/ kailh choc v1/v2 switches (14x14mm). or, kailh cmi627301d07 6x6x7.3mm silent micro switch|
+|3|cherry mx switches. or, kailh choc v1/v2 switches (14x14mm). or, kailh cmi627301d07 6x6x7.3mm silent micro switch|
 |1|msk-1153 6 pins power switch|
 |1|3.5x6x2mm tact switch turtle switch|
 |1|m2 screw boxset (3-10mm)|
